@@ -1,0 +1,12 @@
+fraudinha
+maminha
+picanha
+ancho
+panceta de porco
+
+levar bebida/carne
+19/02/2022 - churrasco no Moisés
+
+"jdbc:oracle:thin:@//sede-orabugfix.trt23.gov.br:1521/orabugfix"
+
+---------------------------------------------------------------------------------------
